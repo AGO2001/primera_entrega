@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <title> Ejercicio 1 </title>
+   </head>
+   <body>
+      <h1> Ejercicio No.01 </h1>
+      <h2> parágrafos y listas </h2>
+      <h3> Código HTML </h3>
+      <p> Desarrollado por: ALEXANDER GONZALEZ ORTIZ </p>
+      <p> Código: 1004681579 </p>
+      <p> Fecha: 22/08/2020 </p>
+      <p> PARADIGMAS DE PROGRAMACION </p>
+      <ul>
+         <li> Imperativo </li>
+	 <li> Funcional </li>
+	 <li> Orientado a Objetos </li>
+      </ul>
+     <p> UNIVERSIDADES </p>
+     <ol>
+         
+	 <a href="https://uniandes.edu.co/en">
+               <li> Universidad de los andes </li> 
+         </a>
+         
+	 <a href="https://unal.edu.co/">
+               <li> Universidad nacional de colombia </li> 
+         </a>
+         
+         <a href="https://www.univalle.edu.co/">
+               <li> Universidad del valle </li>
+             </a>
+     </ol>
+   </body>
+</html>
